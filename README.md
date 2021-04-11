@@ -13,4 +13,4 @@ cd apk-mod
 python3 mod.py
 ```
 ### Hasil:
-![ngentot](https://Kgyya/apk-mod/blob/main/calories2.jpg)
+![ngentot](https://github.com/Kgyya/apk-mod/blob/main/calories2.jpg)
