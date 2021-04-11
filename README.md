@@ -8,5 +8,7 @@ apt install python-pip
 pip install bs4
 pip install requests
 git clone https://github.com/Kgyya/apk-mod
+cd apk-mod
+python3 mod.py
 ```
 ### Hasil:
